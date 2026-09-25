@@ -4,8 +4,6 @@
 
 `Python` · `pandas` · `matplotlib` · `seaborn` · `Jupyter` · Hugging Face `datasets`
 
-> Built as the capstone project of Luke Barousse's [Python for Data Analytics](https://www.youtube.com/watch?v=wUSDVGivd-8) course, using his public [data_jobs](https://huggingface.co/datasets/lukebarousse/data_jobs) dataset.
-
 ![Optimal skills for Data Analysts: demand vs median salary](images/optimal_skills.png)
 
 ## Key findings
@@ -53,3 +51,7 @@ jupyter lab
 ```
 
 Each notebook downloads the dataset from Hugging Face when it runs, so there's nothing to set up beforehand.
+
+## Acknowledgements
+
+Project structure and dataset ([data_jobs](https://huggingface.co/datasets/lukebarousse/data_jobs)) from Luke Barousse's Python for Data Analytics course.
